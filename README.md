@@ -9,7 +9,7 @@ Statistics isn't just about numbers; it's the language that machines understand 
 - Skewness: Indicates the asymmetry of a distribution.
 - IQR (Interquartile Range): The range between the first and third quartiles, helping identify outliers.
 
-### In the dataset at our disposal, we encounter different types of variables, each with its unique role in our story:
+### In the dataset at our disposal, we encounter different types of variables, each with its unique role:
 
 - Categorical Variables: Manufacturer Type, Vehicle Type.
 - Numerical Variables: Sales in Thousands, Year Resale Value, Price in Thousands, Engine Size, Horsepower.
